@@ -9,3 +9,5 @@ def model2():
 
 def model3():
     print("adding model 3")
+
+print("Model2 is performing best")

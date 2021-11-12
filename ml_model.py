@@ -10,7 +10,7 @@ def model2():
 def model3():
     print("adding model 3")
 
-def model4():
-    print("adding model 4")
+def model5():
+    print("adding model 5")
 
 print("Model4 is performing best")
